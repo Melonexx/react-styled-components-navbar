@@ -15,7 +15,7 @@ const StyledList = styled.ul`
 
 const StyledLink = styled(Link)`
   text-decoration: none;
-  &hover {
+  &:hover {
     text-decoration: underline;
   }
 `;
